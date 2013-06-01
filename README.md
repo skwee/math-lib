@@ -2,6 +2,7 @@ A math library that implements Vector, Matrix and Quaternion Data Strcutures. Al
 
 Licensed under MIT license
 
+
 The MIT License (MIT)
 
 Copyright (C) 2013 Dmitry "skwee" Kudryavtsev
