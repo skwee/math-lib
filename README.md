@@ -1,4 +1,4 @@
-A math library that implements Vector, Matrix and Quaternion Data Strcutures. All rights reserver to Dmitry "skwee" Kydryavtsev. 
+A math library that implements Vector, Matrix and Quaternion Data Strcutures. All rights reserver to Dmitry "skwee" Kudryavtsev. 
 
 Licensed under MIT license
 
